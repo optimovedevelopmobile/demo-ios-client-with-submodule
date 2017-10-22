@@ -1,0 +1,3 @@
+[submodule "optimove-sdk"]
+	path = demo-ios-client-sdk-submodule
+	url = https://github.com/optimovedevelopmobile/demo-ios-client-sdk-submodule.git
